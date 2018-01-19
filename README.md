@@ -1,7 +1,7 @@
 # find-big-files
 find big files from current directory
 ## Overview
-This tool will ordered current directory's file by size. File statistics will output to file "find_big_files.txt".
+This tool will ordered current directory's file by size. File statistics will output to text file "find_big_files.txt".
 ## Prerequisites
 * ruby
 * mac
